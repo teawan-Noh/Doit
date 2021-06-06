@@ -6,7 +6,7 @@ public class For_Ex {
 		
 		//for문: 수의 특정 범위, 횟수와 관련한 반복수행에서 주로 사용
 		
-		int num = 1;
+		int num;
 		int sum = 0;
 		
 		for(num = 1; num <=10; num++) {
