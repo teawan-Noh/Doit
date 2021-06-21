@@ -1,0 +1,12 @@
+package chapter8;
+
+public class Circle {
+
+	Point point;  // has - a °ü°è
+	
+	private int radius;
+	
+	public Circle() {
+		point = new Point();
+	}
+}
